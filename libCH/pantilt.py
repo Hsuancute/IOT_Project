@@ -1,3 +1,6 @@
+#程式碼來源 https://github.com/ch-tseng/PanTilt 
+#有做部分修改
+
 # How  to use:
 #  1. Import the library
 #	from libCH.pantilt import PanTilt
