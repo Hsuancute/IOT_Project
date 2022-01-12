@@ -1,3 +1,6 @@
+#程式碼來源 https://github.com/ch-tseng/PanTilt 
+#有做部分修改
+
 # import the necessary packages
 import os
 from imutils.video import VideoStream
