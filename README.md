@@ -1,4 +1,5 @@
-<h1 dir="auto"><span style="color:null">🔥早期火源偵測滅火風扇</span></h1>
+<h1 dir="auto"><span style="color:null">🔥早期火源智能偵測滅火風扇<br />
+Intelligent Early Fire Terminator</span></h1>
 
 <h2 dir="auto"><span style="color:null">💡 1. 關於專案</span></h2>
 
