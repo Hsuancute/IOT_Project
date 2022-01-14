@@ -57,7 +57,7 @@ Intelligent Early Fire Terminator</span></h1>
 
 <ul dir="ltr">
 	<li>
-	<h2><span style="color:null">程式碼主要參考&nbsp;</span><a href="https://chtseng.wordpress.com/2016/10/19/%E4%BD%BF%E7%94%A8%E8%88%B5%E6%A9%9F%E9%9B%B2%E5%8F%B0%E8%BF%BD%E8%B9%A4%E8%87%89%E5%AD%94/"><span style="color:null">使用舵機雲台追蹤臉孔/CH.Tseng</span></a><br />
+	<h2><span style="color:null">程式碼主要引用&nbsp;</span><a href="https://chtseng.wordpress.com/2016/10/19/%E4%BD%BF%E7%94%A8%E8%88%B5%E6%A9%9F%E9%9B%B2%E5%8F%B0%E8%BF%BD%E8%B9%A4%E8%87%89%E5%AD%94/"><span style="color:null">使用舵機雲台追蹤臉孔/CH.Tseng</span></a><br />
 	<span style="color:null">【Github】</span><a href="https://github.com/ch-tseng/PanTilt"><span style="color:null">ch-tseng/PanTilt</span></a></h2>
 	</li>
 	<li><span style="color:null">樹莓派GPIO參考：</span><a href="https://pinout.xyz/" rel="nofollow"><span style="color:null">https://pinout.xyz/</span></a></li>
