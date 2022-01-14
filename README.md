@@ -6,7 +6,7 @@ Intelligent Early Fire Terminator</span></h1>
 <ul dir="ltr">
 	<li><span style="color:null">火災可以在極短的時間摧毀人事物，而每場火災皆從星星之火開始燃燒，盡早發現火源，即是避免擴大災害的關鍵。</span></li>
 	<li><span style="color:null">風可以助長火勢亦能用來滅火，主要取決於風的大小和可燃物的溫度，當風無法使可燃物溫度降至著火點以下時，風便助火，例如：用扇子往木炭搧風生火；當風使可燃物降溫到著火點以下時，風便滅火，例如：用扇子將燭火搧熄。</span></li>
-	<li><span style="color:null">本專案鏡頭會持續間隔幾秒照相，並且回傳照片給Rasberry Pi ，透過影像辨識偵測到火源時，即打開風扇滅火，偵測無火源即會關閉風扇。</span></li>
+	<li><span style="color:null">本專案鏡頭會持續間隔幾秒照相，並且回傳照片給Rasberry Pi ，做影像辨識是否有火源，當偵測到火源時，LED即亮燈，並打開風扇滅火，滅完火後，偵測無火源，LED即會熄滅，並關閉風扇。</span></li>
 </ul>
 
 <h2 dir="auto"><span style="color:null">🎥 2. Demo影片連結</span></h2>
